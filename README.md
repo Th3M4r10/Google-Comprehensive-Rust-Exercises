@@ -4,7 +4,6 @@
 
 To clone the repository:
 
-
 ```bash
 git clone https://github.com/Th3M4r10/Google-Comprehensive-Rust-Exercises.git
 cd Google-Comprehensive-Rust-Exercises
