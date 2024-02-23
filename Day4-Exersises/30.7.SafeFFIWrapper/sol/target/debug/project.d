@@ -1,0 +1,1 @@
+/home/m4r10/Desktop/rust-lang/comprehensive-rust/Day4-Exersises/30.7.SafeFFIWrapper/project/target/debug/project: /home/m4r10/Desktop/rust-lang/comprehensive-rust/Day4-Exersises/30.7.SafeFFIWrapper/project/src/main.rs
